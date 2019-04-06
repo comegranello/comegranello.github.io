@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cari Giovani on Come Granello</title>
+    <link>https://comegranello.github.io/categories/cari-giovani/</link>
+    <description>Recent content in Cari Giovani on Come Granello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Sun, 25 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://comegranello.github.io/categories/cari-giovani/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Giovani in Cammino</title>
+      <link>https://comegranello.github.io/posts/2016-09-25-giovani-incammino/</link>
+      <pubDate>Sun, 25 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://comegranello.github.io/posts/2016-09-25-giovani-incammino/</guid>
+      <description>Siamo in cammino: è questa la realtà della nostra vita, fatta di momenti lieti e di fatiche da affrontare. Come quando si vuol raggiungere una vetta, percorrendo un sentiero di montagna: la salita tante volte è faticosa, altre volte più semplice, ma è necessario affrontarla per arrivare alla meta.
+Nei giorni trascorsi in montagna con i ragazzi delle superiori abbiamo vissuto una esperienza significativa da questo punto di vista; un giorno, affrontando un sentiero per raggiungere un rifugio posto di fronte al monte Bianco, dopo una prima parte di cammino, ci siamo fermati per il momento di riflessione.</description>
+    </item>
+    
+    <item>
+      <title>Lettera ai giovani</title>
+      <link>https://comegranello.github.io/posts/2015-11-25-lettera-ai-giovani/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://comegranello.github.io/posts/2015-11-25-lettera-ai-giovani/</guid>
+      <description>A te, giovane amica/o: vorrei discorrere con Te, su pensieri - parole che danno luce e gioia alla nostra vita, come facevamo durante gli anni del Liceo.Incomincio dalla Bellezza.In dialogo con Platone, scopriamo che nel Simposio e nel Fedro, la Bellezza è oggetto di ampie indagini e di conoscenze appassionate.Nel grande discorso di Socrate con la sacerdotessa Diotima di Mantinea, Eros (l’amore) è desiderio di cose buone e pertanto belle.</description>
+    </item>
+    
+  </channel>
+</rss>

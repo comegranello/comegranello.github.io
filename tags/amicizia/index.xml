@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amicizia on Come Granello</title>
+    <link>https://comegranello.github.io/tags/amicizia/</link>
+    <description>Recent content in Amicizia on Come Granello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Sat, 26 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://comegranello.github.io/tags/amicizia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amicizia in Maddalena</title>
+      <link>https://comegranello.github.io/posts/2015-12-07-amicizia-in-maddalena/</link>
+      <pubDate>Sat, 26 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://comegranello.github.io/posts/2015-12-07-amicizia-in-maddalena/</guid>
+      <description>Anche i Santi hanno molti amici, anzi sono specialisti di amicizia. Così Santa Maddalena, marchesa di Canossa (Verona 1774-1835), ha una schiera di amiche e di amici, che la aiutano moltissimo e per tutta la vita. Prioritaria nella loro amicizia è fare il bene e prendersi cura delle necessità dei piccoli e dei poveri.</description>
+    </item>
+    
+  </channel>
+</rss>

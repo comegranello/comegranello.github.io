@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bellezza on Come Granello</title>
+    <link>https://comegranello.github.io/tags/bellezza/</link>
+    <description>Recent content in Bellezza on Come Granello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Wed, 25 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://comegranello.github.io/tags/bellezza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lettera ai giovani</title>
+      <link>https://comegranello.github.io/posts/2015-11-25-lettera-ai-giovani/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://comegranello.github.io/posts/2015-11-25-lettera-ai-giovani/</guid>
+      <description>A te, giovane amica/o: vorrei discorrere con Te, su pensieri - parole che danno luce e gioia alla nostra vita, come facevamo durante gli anni del Liceo.Incomincio dalla Bellezza.In dialogo con Platone, scopriamo che nel Simposio e nel Fedro, la Bellezza è oggetto di ampie indagini e di conoscenze appassionate.Nel grande discorso di Socrate con la sacerdotessa Diotima di Mantinea, Eros (l’amore) è desiderio di cose buone e pertanto belle.</description>
+    </item>
+    
+  </channel>
+</rss>
